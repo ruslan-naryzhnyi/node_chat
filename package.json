@@ -1,0 +1,24 @@
+{
+  "name": "node_chat",
+  "version": "1.0.0",
+  "description": "A chat application built with node, mongodb, express and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruslan-naryzhnyi/node_chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruslan-naryzhnyi/node_chat/issues"
+  },
+  "homepage": "https://github.com/ruslan-naryzhnyi/node_chat#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
